@@ -1,0 +1,10 @@
+--- command='srsepc local.conf' version=18.12.0 signal=11 date='24/05/2019 22:26:37' ---
+	srsepc() [0x46b19a]
+	/lib/x86_64-linux-gnu/libc.so.6(+0x354b0) [0x7fdd7f0644b0]
+	/lib/x86_64-linux-gnu/libc.so.6(cfree+0x22) [0x7fdd7f0b3512]
+	srsepc(_ZN6srsepc4s1ap4stopEv+0x73) [0x453523]
+	srsepc(_ZN6srsepc3mme4stopEv+0x1d) [0x44f35d]
+	srsepc(main+0x85b) [0x440e4b]
+	/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf0) [0x7fdd7f04f830]
+	srsepc(_start+0x29) [0x441319]
+
