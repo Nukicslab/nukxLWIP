@@ -1,4 +1,4 @@
-# NUKxlwipep
+# NUKxlwip
 wen's project
 
 #How to configure
